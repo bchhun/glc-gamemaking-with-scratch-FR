@@ -1,4 +1,4 @@
-#Girls Learning Code: Artmaking with Scratch
+#Girls Learning Code: Gamemaking with Scratch
 
 HOW TO USE:
 ## Before Workshop
